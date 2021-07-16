@@ -1,4 +1,4 @@
-# Random Number Chooser
+# Random Number Generator
 
 For the times when you don't want to decide
 
